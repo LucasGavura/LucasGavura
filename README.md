@@ -1,15 +1,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasgavura&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgavura" /> </p>
 
 <h1 align="center">Hi 👋, I'm Lucas Gavura</h1>
-<h3 align="center">A full time Computer Science Major</h3>
+<h3 align="center">I'm currently full time Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Finding Co-op oppertunities**
+- 🔭 I’m currently working on **developing my portfolio**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **to design a website**
 
 - 🏙️ I'm currently residing in **Ottawa, Ontario**
 
-- ⚡ Fun fact **...**
+- ⚡ Fun fact: **47**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
