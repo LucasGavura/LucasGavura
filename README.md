@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasgavura&show_icons=true&locale=en&layout=compact" alt="lucasgavura" /></p>
-
 <h1 align="center">Hi 👋, I'm Lucas Gavura</h1>
 <h3 align="center">I'm currently full time Computer Science Student</h3>
 
@@ -9,11 +7,11 @@
 
 - 🏙️ I'm currently residing in **Ottawa, Ontario**
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/lucas-gavura/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="FILLME" target="_blank">
+  <a href="mailto:lucasgavura@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
