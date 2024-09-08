@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Gavura</h1>
-<h3 align="center">I'm currently full time Computer Science Student</h3>
+<h3 align="center">I'm currently a full time Computer Science Student</h3>
 
 - 🔭 I’m currently working on **developing my portfolio**
 
